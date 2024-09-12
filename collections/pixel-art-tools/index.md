@@ -17,6 +17,7 @@ items:
  - Kully/pixel-paint
  - pulkomandy/grafx2/
  - pixa-pics/pixa-pics.github.io
+ - VBproDev/Canvascript
 display_name: Pixel Art Tools
 created_by: leereilly
 image: pixel-art-tools.png
